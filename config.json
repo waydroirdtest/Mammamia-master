@@ -9,7 +9,7 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.motorcycles",
+            "url": "https://filmpertutti.pizza/",
             "enabled": "1"
         },
         "Tantifilm": {
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.mom",
+            "url": "https://guardaserie.meme",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -79,6 +79,18 @@
             "url": "https://daddylive.mp",
             "enabled": "1"
         }
+    },
+    "General": {
+        "load_env": "0",
+        "HOST": "0.0.0.0",
+        "PORT": "8080",
+        "Name": "MammacheBuono",
+        "Icon": "🍝",
+        "Public_Instance": "0",
+        "Remote_Instance": "1",
+        "Global_Proxy": "0"
+    }
+}
     },
     "General": {
         "load_env": "0",
