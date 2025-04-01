@@ -9,7 +9,7 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.pizza",
+            "url": "https://filmpertutti.motorcycles",
             "enabled": "1"
         },
         "Tantifilm": {
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.stream",
+            "url": "https://cb01net.org",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserie.meme",
+            "url": "https://guardaserietv.mom",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -72,19 +72,20 @@
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.blog",
+            "url": "https://skystreaming.onl",
             "enabled": "1"
         },
         "DaddyLiveHD": {
             "url": "https://daddylive.mp",
             "enabled": "1"
-        },
+        }
+    },
     "General": {
         "load_env": "0",
         "HOST": "0.0.0.0",
         "PORT": "8080",
-        "Name": "MammaMia",
-        "Icon": "🍋",
+        "Name": "MammacheBuono",
+        "Icon": "🍝",
         "Public_Instance": "0",
         "Remote_Instance": "1",
         "Global_Proxy": "0"
