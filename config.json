@@ -1,4 +1,5 @@
 {
+{
     "Siti": {
         "StreamingCommunity": {
             "url": "https://streamingunity.to",
@@ -30,7 +31,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.vip",
+            "url": "https://cb01net.club",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
