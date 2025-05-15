@@ -1,5 +1,4 @@
 {
-{
     "Siti": {
         "StreamingCommunity": {
             "url": "https://streamingunity.to",
@@ -31,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.club",
+            "url": "https://cb01net.icu",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -66,21 +65,6 @@
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
         },
-        "AnimeWorld": {
-            "url": "https://www.animeworld.ac",
-            "enabled": "1",
-            "AW_ForwardProxy": "0",
-            "AW_PROXY": "1"
-        },
-        "SkyStreaming": {
-            "url": "https://skystreaming.email",
-            "enabled": "1"
-        },
-        "DaddyLiveHD": {
-            "url": "https://daddylive.dad",
-            "enabled": "1"
-        }
-    },
     "General": {
         "load_env": "0",
         "HOST": "0.0.0.0",
